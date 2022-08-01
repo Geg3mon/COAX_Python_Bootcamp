@@ -7,4 +7,4 @@ def hash_string(string: str) -> str:
 
 
 if __name__ == '__main__':
-    print(hash_string('Hello World'))
+    print(hash_string('Python Bootcamp'))
